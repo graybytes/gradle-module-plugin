@@ -21,8 +21,6 @@ class GradleModuleTreePlugin: Plugin<Project> {
     }
 
     private fun moduleTree(project: Project, level: Int) {
-        if(project.depth == 0)
-            return;
         val moduleBuilder = StringBuilder();
         for( i in 0..level) {
             moduleBuilder.append("\t");
