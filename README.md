@@ -42,6 +42,6 @@ kotlin.Unit
 MIT
 
 # Contributions:
-Fork the repo and create a pull request.
-Once approved and reviewed the PR will be merged.
-Feedback and input as issues or enhancements are always welcome
+1. Fork the repo and create a pull request.
+2. Once approved and reviewed the PR will be merged.
+3. Feedback and input as issues or enhancements are always welcome
