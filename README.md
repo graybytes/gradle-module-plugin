@@ -3,7 +3,7 @@ Gradle plugin for module meta-data.
 
 # Steps to build the gradle plugin:
 1. clone the git repo. 
-3. set the Java version to 1.17 in your IDE 
+3. set the Java version to 17 in your IDE 
 5. execute gradle build
 
 # Steps to use the plugin:
