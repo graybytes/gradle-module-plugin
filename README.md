@@ -32,11 +32,11 @@ plugins: [org.gradle.api.plugins.HelpTasksPlugin@1b2cf40f, org.gradle.buildinit.
 
 ### module-tree output
  
- ```Task :module-tree
+ ```> Task :module-tree
 ------------------------------------------------------------------------
+	|-name: root project 'junit16859174016170123017':org.gradle.api.internal.artifacts.dsl.DefaultArtifactHandler_Decorated@1af35a99@unspecified
 [MODULE]
 kotlin.Unit
-
 ```
 ## License
 MIT
