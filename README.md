@@ -1,12 +1,12 @@
-# gradle-module-plugin
+## gradle-module-plugin
 Gradle plugin for module meta-data.
 
-# Steps to build the gradle plugin:
+## Steps to build the gradle plugin:
 1. clone the git repo. 
 3. set the Java version to 17 in your IDE 
 5. execute gradle build
 
-# Steps to use the plugin:
+## Steps to use the plugin:
 1. include gradle plugin 
 ```
   id = "gradle.module.plugin.module-info"
@@ -15,9 +15,9 @@ Gradle plugin for module meta-data.
  id = "gradle.module.plugin.module-tree"
         implementationClass = "gradle.module.plugin.GradleModuleTreePlugin"
 ```        
-# Output 
+## Output 
 
-## module-info output 
+### module-info output 
 ```------------------------------------------------------------------------
 [MODULE]
 name: root project 'junit82316567502977769'
@@ -30,7 +30,7 @@ modules: {}
 plugins: [org.gradle.api.plugins.HelpTasksPlugin@1b2cf40f, org.gradle.buildinit.plugins.BuildInitPlugin@3aa4b3c2, org.gradle.buildinit.plugins.WrapperPlugin@30d0d454, gradle.module.plugin.GradleModulePlugin@3f3aeb59]
 ```
 
-## module-tree output
+### module-tree output
  
  ```Task :module-tree
 ------------------------------------------------------------------------
@@ -38,10 +38,10 @@ plugins: [org.gradle.api.plugins.HelpTasksPlugin@1b2cf40f, org.gradle.buildinit.
 kotlin.Unit
 
 ```
-# License
+## License
 MIT
 
-# Contributions:
+## Contributions:
 1. Fork the repo and create a pull request.
 2. Once approved and reviewed the PR will be merged.
 3. Feedback and input as issues or enhancements are always welcome
