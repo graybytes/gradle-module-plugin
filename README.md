@@ -42,7 +42,7 @@ kotlin.Unit
 MIT
 
 ## Chat
-[Slack Channel] (https://join.slack.com/t/graybytesgrad-5nm5077/shared_invite/zt-15ox4d75e-KCh_wlOtOSb_xNZ68LtAgw) Or email: somayajulaas@gmail.com
+[Slack Channel](https://join.slack.com/t/graybytesgrad-5nm5077/shared_invite/zt-15ox4d75e-KCh_wlOtOSb_xNZ68LtAgw) Or email: somayajulaas@gmail.com
 
 ## Contributions:
 1. Fork the repo and create a pull request.
