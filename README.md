@@ -41,6 +41,9 @@ kotlin.Unit
 ## License
 MIT
 
+## Chat
+[Slack Channel] {https://join.slack.com/t/graybytesgrad-5nm5077/shared_invite/zt-15ox4d75e-KCh_wlOtOSb_xNZ68LtAgw}
+
 ## Contributions:
 1. Fork the repo and create a pull request.
 2. Once approved and reviewed the PR will be merged.
